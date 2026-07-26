@@ -107,9 +107,6 @@ Honeywell Hackathon/
 ├── weather/
 │   └── location.epw                    # Chicago TMY3 summer peak weather file
 ├── .gitignore                          # Git exclude configuration
-├── EcoLoop_Antigravity_Build_Brief.md  # Project specification & build requirements
-├── EcoLoop_Phase0_1_Audit_Report.md    # Real evidence audit report
-├── EcoLoop_Phase0_1_Audit_Addendum.md  # Literature review & addendum report
 ├── requirements.txt                    # Python dependencies
 └── README.md                           # Comprehensive project documentation
 ```
