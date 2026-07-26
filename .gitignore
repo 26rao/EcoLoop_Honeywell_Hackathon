@@ -9,6 +9,13 @@ __pycache__/
 *.exe
 *.zip
 
-# Logs (keep benchmark logs, ignore temporary logs)
-logs/real_agent_event_log_run2.jsonl
-logs/test_*.jsonl
+# Temporary build briefs & internal audit reports
+EcoLoop_Antigravity_Build_Brief.md
+EcoLoop_Phase0_1_Audit_Addendum.md
+EcoLoop_Phase0_1_Audit_Report.md
+
+# Intermediate EnergyPlus simulation output directories & temporary logs
+logs/*_out/
+logs/real_*
+logs/test_*
+logs/phase0_*
