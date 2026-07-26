@@ -1,0 +1,14 @@
+# Python virtual environment & caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# EnergyPlus binaries & large setup installers
+*.exe
+*.zip
+
+# Logs (keep benchmark logs, ignore temporary logs)
+logs/real_agent_event_log_run2.jsonl
+logs/test_*.jsonl

@@ -1,0 +1,16 @@
+{
+  "comfort_band_c": [21.0, 26.0],
+  "max_delta_c_per_step": 1.5,
+  "decision_cadence_minutes": 60,
+  "watchdog_max_consecutive_failures": 3,
+  "cop_cooling": 3.0,
+  "heating_efficiency": 0.95,
+  "simulated_horizon_days": 3,
+  "llm_model_name": "qwen2.5:7b-instruct",
+  "llm_max_retries": 2,
+  "llm_timeout_s": 35,
+  "baseline_setpoint_c": 22.0,
+  "carbon_source_label": "Representative real hourly carbon intensity for region, sourced from Electricity Maps / WattTime.",
+  "ollama_url": "http://localhost:11434/api/chat",
+  "energyplus_install_dir": "C:\\EnergyPlusV24-2-0"
+}
