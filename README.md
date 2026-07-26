@@ -10,7 +10,7 @@
 > **EcoLoop** is a state-of-the-art, autonomous, closed-loop Building Energy Management System (BEMS). It couples the official **EnergyPlus 24.2.0 C++ API** directly with a deterministic local LLM agent (**Ollama `qwen2.5:7b-instruct`**) to perform dynamic 15-minute HVAC setpoint actuation, optimizing energy consumption while enforcing occupant thermal comfort (PMV) and rigorous safety guardrails.
 
 ## Demo Video
-[Watch the EcoLoop Demo](https://drive.google.com/file/d/1rSr1nFXe3LweaFuEPmO07XIeHmM_Werx/view?usp=sharing)---
+[Watch the EcoLoop Demo](https://drive.google.com/file/d/1rSr1nFXe3LweaFuEPmO07XIeHmM_Werx/view?usp=sharing)
 
 ## 📑 Table of Contents
 - [Architecture Overview](#-architecture-overview)
